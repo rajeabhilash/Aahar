@@ -1,68 +1,68 @@
 "Nutrition":{
+        "Protein":"160",
+        "Carbs":"100",
+        "Fats":"120",
+        "Calories":"2160"
+    },
+    "Aahar":[{
+                "Nashta":{
+                     "time":"06:00-10:00",
+                    "Name":"Upama",
                     "Protein":"160",
-                    "Carbs":"100",
-                    "Fats":"120",
-                    "Calories":"2160"
-                },
-                "Aahar":[{
-                            "Nashta":{
-                                 "time":"06:00-10:00",
-                                "Name":"Upama",
-                                "Protein":"160",
-                                "Fats":"20",
-                                "Carbs":"30",
-                                 "img":"../../assets/Images/Food/Healthy.png",
-                                "Ingredients":[]
-                            }},
-                            {
-                            "Snack":{
-                                 "time":"10:00-12:00",
-                                "Name":"Salad",
-                                "Protein":"120",
-                                "Fats":"50",
-                                "Carbs":"30",
-                                 "img":"../../assets/Images/Food/Salad.png",
-                                "Ingredients":[]
-                            }},
-                            {
-                            "Lunch":{
-                                 "time":"12:00-15:00",
-                                "Name":"Roti with Paneer",
-                                "Protein":"90",
-                                "Fats":"30",
-                                "Carbs":"30",
-                                 "img":"../../assets/Images/Food/Seafood.png",
-                                "Ingredients":[]
-                            }},
-                            {
-                            "Evening Snack":{
-                                 "time":"15:00-18:00",
-                                "Name":"Yaddein",
-                                "Protein":"50",
-                                "Fats":"25",
-                                "Carbs":"20",
-                                 "img":"../../assets/Images/Food/Fish.png",
-                                "Ingredients":[]
-                            }},
-                            {
-                            "Dinner":{
-                                 "time":"18:00-22:00",
-                                "Name":"Roti with Tomato",
-                                "Protein":"10",
-                                "Fats":"50",
-                                "Carbs":"30",
-                                 "img":"../../assets/Images/Food/Biryani.png",
-                                "Ingredients":[]
-                            }},
-                         {
-                         "Midnight Cravings":{
-                              "time":"22:00-01:00",
-                             "Name":"Roti with Tomato",
-                             "Protein":"100",
-                             "Fats":"50",
-                             "Carbs":"30",
-                              "img":"../../assets/Images/Food/Biryani.png",
-                             "Ingredients":[]
-                         }}
-                        ]
-            }
+                    "Fats":"20",
+                    "Carbs":"30",
+                     "img":"../../assets/Images/Food/Healthy.png",
+                    "Ingredients":[]
+                }},
+                {
+                "Snack":{
+                     "time":"10:00-12:00",
+                    "Name":"Salad",
+                    "Protein":"120",
+                    "Fats":"50",
+                    "Carbs":"30",
+                     "img":"../../assets/Images/Food/Salad.png",
+                    "Ingredients":[]
+                }},
+                {
+                "Lunch":{
+                     "time":"12:00-15:00",
+                    "Name":"Roti with Paneer",
+                    "Protein":"90",
+                    "Fats":"30",
+                    "Carbs":"30",
+                     "img":"../../assets/Images/Food/Seafood.png",
+                    "Ingredients":[]
+                }},
+                {
+                "Evening Snack":{
+                     "time":"15:00-18:00",
+                    "Name":"Yaddein",
+                    "Protein":"50",
+                    "Fats":"25",
+                    "Carbs":"20",
+                     "img":"../../assets/Images/Food/Fish.png",
+                    "Ingredients":[]
+                }},
+                {
+                "Dinner":{
+                     "time":"18:00-22:00",
+                    "Name":"Roti with Tomato",
+                    "Protein":"10",
+                    "Fats":"50",
+                    "Carbs":"30",
+                     "img":"../../assets/Images/Food/Biryani.png",
+                    "Ingredients":[]
+                }},
+             {
+             "Midnight Cravings":{
+                  "time":"22:00-01:00",
+                 "Name":"Roti with Tomato",
+                 "Protein":"100",
+                 "Fats":"50",
+                 "Carbs":"30",
+                  "img":"../../assets/Images/Food/Biryani.png",
+                 "Ingredients":[]
+             }}
+            ]
+}
