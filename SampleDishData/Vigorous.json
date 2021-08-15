@@ -1,19 +1,19 @@
 {
   "Nutrition": {
-    "Protein": "160",
-    "Carbs": "100",
-    "Fats": "120",
-    "Calories": "2160"
+    "Protein": "11",
+    "Carbs": "300",
+    "Fats": "25",
+    "Calories": "2500"
   },
   "Aahar": [
     {
       "Nashta": {
         "time": "06:00-10:00",
-        "Name": "Boondi laddu",
-        "Protein": "20",
-        "Fats": "20",
-        "Carbs": "30",
-        "img": "https://5.imimg.com/data5/CC/JS/MY-38662062/boondi-laddu-500x500.jpg",
+        "Name": "Poha",
+        "Protein": "0.5",
+        "Fats": "2",
+        "Carbs": "70",
+        "img": "https://pipingpotcurry.com/wp-content/uploads/2020/12/Poha-Recipe-Piping-Pot-Curry.webp",
         "Ingredients": []
       }
     },
@@ -21,9 +21,9 @@
       "Snack": {
         "time": "10:00-12:00",
         "Name": "Salad",
-        "Protein": "20",
-        "Fats": "50",
-        "Carbs": "30",
+        "Protein": "1",
+        "Fats": "4",
+        "Carbs": "60",
         "img": "https://saladswithanastasia.com/wp-content/uploads/2020/10/GREEN-CORAL-SALAD-FEATURED-1.jpg",
         "Ingredients": []
       }
@@ -42,11 +42,11 @@
     {
       "Evening Snack": {
         "time": "15:00-18:00",
-        "Name": "Adbhut",
-        "Protein": "30",
-        "Fats": "25",
+        "Name": "Break Pakoda",
+        "Protein": "0.5",
+        "Fats": "4",
         "Carbs": "20",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Azerbaijan_Light_snack.jpg",
+        "img": "https://i.ndtvimg.com/i/2017-09/bread-pakora_620x350_81504592095.jpg",
         "Ingredients": []
       }
     },
@@ -54,9 +54,9 @@
       "Dinner": {
         "time": "18:00-22:00",
         "Name": "Roti with Tomato",
-        "Protein": "25",
-        "Fats": "50",
-        "Carbs": "30",
+        "Protein": "2",
+        "Fats": "7",
+        "Carbs": "120",
         "img": "https://i0.wp.com/kalimirchbysmita.com/wp-content/uploads/2015/07/Tomato-Chutney02.jpg?resize=550%2C393",
         "Ingredients": []
       }
@@ -64,11 +64,11 @@
     {
       "Midnight Cravings": {
         "time": "22:00-01:00",
-        "Name": "Cheeze Bread",
-        "Protein": "30",
-        "Fats": "50",
+        "Name": "Makhna Bhel",
+        "Protein": "1",
+        "Fats": "2",
         "Carbs": "30",
-        "img": "https://static.toiimg.com/thumb/62335227.cms?imgsize=576871&width=800&height=800",
+        "img": "https://c.ndtvimg.com/2019-05/8cp8k61o_makhana_625x300_21_May_19.jpg",
         "Ingredients": []
       }
     }
